@@ -27,7 +27,7 @@ Ensure you have Python installed. This project is compatible with Python 3. Inst
 
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 1. Run the Application:
 Start the Task Management System by running the following command:
@@ -47,7 +47,7 @@ Generate Reports (gr): Generate task and user overview reports.
 Display Statistics (ds): Display statistics related to tasks and users.
 Exit (e): Quit the application.
 
-Features
+## Features
 
 User Management: Register new users and manage user authentication.
 Task Management: Add tasks, assign them to users, set due dates, mark tasks as complete, and edit task details.
@@ -55,7 +55,7 @@ Viewing Tasks: View all tasks in the system or tasks assigned to the current use
 Reports Generation: Generate comprehensive reports on task and user statistics.
 Statistics Display: Display statistics on tasks and users, providing insights into task completion rates and user productivity.
 
-Credits
+## Credits
 
 Johnny Chan - Developer
 Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions for improvement.
