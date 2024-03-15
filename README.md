@@ -39,13 +39,13 @@ If you're an existing user, enter your username and password to log in.
 If you're a new user, register by providing a unique username and password.
 
 4. Main Menu Options:
-Register User (r): Register a new user.
-Add Task (a): Add a new task to the system.
-View All Tasks (va): View all tasks assigned to users.
-View My Tasks (vm): View tasks assigned to the current logged-in user.
-Generate Reports (gr): Generate task and user overview reports.
-Display Statistics (ds): Display statistics related to tasks and users.
-Exit (e): Quit the application.
+* Register User (r): Register a new user.
+* Add Task (a): Add a new task to the system.
+* View All Tasks (va): View all tasks assigned to users.
+* View My Tasks (vm): View tasks assigned to the current logged-in user.
+* Generate Reports (gr): Generate task and user overview reports.
+* Display Statistics (ds): Display statistics related to tasks and users.
+* Exit (e): Quit the application.
 
 ## Features
 
